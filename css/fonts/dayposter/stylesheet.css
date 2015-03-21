@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dayposterblackregular';
+    src: url('DAYPBL-webfont.eot');
+    src: url('DAYPBL-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DAYPBL-webfont.woff') format('woff'),
+         url('DAYPBL-webfont.ttf') format('truetype'),
+         url('DAYPBL-webfont.svg#dayposterblackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
